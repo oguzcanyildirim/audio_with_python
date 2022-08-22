@@ -4,14 +4,14 @@
 The project is thought to create a library which is able to:
    - retrieve audio from the defined default audio input port and save it into a *.wav* file
    - Able to play *.wav* files
-   - Push the *.wav* file to telegram meesenger and whatsapp.
+   - Push the *.wav* file to telegram messenger and whatsapp.
 
 The last point is *to be implemented*.
 
 The other points are already developed in **managesound.py**. 
 
 ## Requirements
-Python 3 is needed. The project s built with Python 3.7. 
+Python 3 is needed. The project is built with Python 3.7. 
 Additionally wave and pyaudio libraries need to be installed through
 ```
 pip install Wave
